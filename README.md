@@ -6,7 +6,7 @@
 
 <h2>Learning Objectives</h2>
 <ul>
-<li>Students will be able to define what a network is, and identify the components and architecture of different types of networks.</li>
+<li>Any topical or subject matter to prepare for the lesson. Can be a precocious Lesson.</li>
   <br>
 <li>Students will comprehend the distinctions between Local Area Networks (LANs) and Wide Area Networks (WANs), and be able to explain the functionalities and applications of each.</li><br>
   
