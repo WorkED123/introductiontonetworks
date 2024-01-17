@@ -84,106 +84,93 @@
 
 <h2>Introduction</h2>
 
-<p1>Cybersecurity is a battlefield where professionals strive to secure digital territories against a myriad of threats. With the rapid proliferation of digital assets, the nature and sophistication of cyber threats have evolved. Understanding these threats is the linchpin to devising effective security measures. This lesson illuminates the landscape of cyber threats, providing students with the insight to identify and contextualize common threats faced in the digital domain. <br>
+<p1>Embark on a journey through the realm of networks today, as we unravel the intricacies that underpin our digitally connected world. If the idea of seamless communication between devices intrigues you, this lesson will serve as your gateway to the vast domain of networking.<br>
+<br>
 
-
-
-
-
-
-
-
-<h3><ins>Defining Cyber Threats</ins></h3>
-
-**Definition:** A cyber threat is a potential malicious act that seeks to disrupt digital operations, compromise data integrity, or exploit digital resources.<br>
-
-<ins>Examples:</ins>
+<h2>1. What is a Network?</h2>
+A network is a concerted system of interconnected computers and devices that share resources and information. This system can range from a small setup like a home network, to broader configurations like those used by corporations. <br>
+<br>
+<h2>2. The Significance of Networking </h2>
+Networking forms the backbone of modern communication, enabling data exchange and resource sharing, thereby enhancing efficiency and fostering collaboration. Its relevance spans across various sectors including businesses, education, government, and healthcare.<br>
+<br>
+<h2>3. Local Area Network (LAN) vs Wide Area Network (WAN)</h2>
+<h3><ins>Local Area Network (LAN):</ins></h3>
 <ul>
-<li>Malware: Malicious software like viruses, worms, and trojan horses designed to infiltrate or damage computer systems.</li>
-  <br>
-<li>Phishing: Cyber attacks disguised as legitimate communications aimed at harvesting sensitive information.</li>
+<li>
+  
+**Definition:** A LAN connects computers and devices within a confined geographic area such as a building, facilitating swift data transfer and resource sharing.</li>
+<li>
+
+  **Components:** Routers, switches, computers, and network interface cards.</li>
+<li>
+  
+  **Use Cases:** Sharing files and applications among employees within an office.</li>
 </ul>
-<br>
-
-**Importance**: Grasping the concept of cyber threats is fundamental to navigating the cybersecurity landscape. It forms the bedrock upon which effective security policies and measures are built.
-<br>
-
-<h3><ins>Common Cyber Threats</ins></h3>
-
-**Identification:** Being able to recognize common threats is the first step toward cybersecurity preparedness.<br>
-
-<ins>Examples:</ins>
+<h3><ins>Wide Area Network (WAN):</ins></h3>
 <ul>
-<li>Ransomware: Malware that encrypts files and demands a ransom for decryption.</li>
-  <br>
-<li>DDoS Attacks: Coordinated attacks that overwhelm systems with traffic to render them unavailable.</li>
+<li>
+  
+  **Definition:** A WAN, on the other hand, encompasses a larger geographic span, connecting multiple LANs possibly across cities or countries.</li>
+<li
+  
+  >**Components:** Routers, switches, and a variety of communication devices.</li>
+<li>
+  
+  **Use Cases:** Connecting multiple office locations of a business for seamless communication and data sharing.</li>
 </ul>
-<br>
 
-**Importance:** Awareness of common threats empowers individuals and organizations to effectively tailor their security measures and response strategies.
-<br>
+<h2>4. Key Networking Devices and Their Roles</h2>
 
-<h3><ins>Real-World Threat Scenarios</ins></h3>
-
-**Analysis:** Examining real-world instances of cyber threats imparts a practical understanding of their impact and the requisite mitigation strategies. <br>
-
-<ins>Examples:</ins>
-<ul>
-<li>Zero-Day Vulnerabilities: Exploits that take advantage of unknown software vulnerabilities.</li>
-  <br>
-<li>Social Engineering Attacks: Manipulative tactics aimed at tricking individuals into divulging confidential information.</li>
+<h3><ins>Router:</h3></ins>
+  <ul>
+<li
+  
+  **Functionality:** Routers direct data packets between networks, ensuring they reach their intended destinations.</li>
+<li
+  
+  >**Real-world Application:** Connecting your home network to the internet.</li>
+    </ul>
+<h3><ins>Switch:</h3></ins>
+  <ul>
+<li>
+  
+  **Functionality:** Switches manage data traffic efficiently within a LAN, forwarding data only to specific devices on the network rather than to all devices within the LAN.</li>
+<li>
+  
+  **Real-world Application:** Managing traffic in a busy office network to prevent data collisions.</li>
+    </ul>
+<h3><ins>Network Interface Card (NIC):</h3></ins>
+  <ul>
+<li>
+  
+  **Functionality:** NICs serve as the bridge between a computer and a network, facilitating the communication between the two.</li>
+<li>
+  
+  **Real-world Application:** Every device connected to a network has a NIC to manage its network connectivity.</li>
 </ul>
-<br>
-
-**Importance:** Analyzing real-world scenarios enhances the practical understanding and application of cybersecurity principles in thwarting cyber threats.
-<br>
-
-<h3><ins>Mitigation Strategies</ins></h3>
-
-**Evaluation:** Assessing the efficacy of mitigation strategies like firewalls, intrusion detection systems, and encryption in countering cyber threats.<br>
-
-<ins>Examples:</ins>
-<ul>
-<li>Patch Management: Keeping software updated to remedy known vulnerabilities.</li>
-  <br>
-<li>Multi-Factor Authentication (MFA): Employing multiple forms of authentication to bolster security.</li>
-  </ul>
-  <br>
-
-**Importance:** Effective mitigation strategies are crucial in reducing vulnerability to cyber threats and ensuring digital resilience.
 
 
-<h3><ins>Evolving Threat Landscape</ins></h3>
-
-**Reflection:** Emphasizing the importance of continuous learning and adaptation in the face of an evolving threat landscape.
-
-
-<ins>Examples:</ins>
-<ul>
-<li>Threat Intelligence: Utilizing evidence-based knowledge to stay ahead of emerging threats.</li>
-  <br>
-<li>Incident Response: Preparing for and managing the aftermath of a cyber-attack.</li>
-</ul>
-<br>
+<h2> 5. Networking Protocols</h2>
+The Rulebooks of Communication Networking protocols define the rules that govern data communication. Key protocols include TCP/IP which underpins the functioning of the internet, ensuring reliable data transmission.
 
 
-**Importance:** Staying informed and adaptable is paramount in maintaining a robust cybersecurity posture amidst an ever-changing threat environment.
   
 
 <h2>Conclusion</h2>
-<p1>Understanding cyber threats is a cornerstone of cybersecurity education. By delving into the nature, examples, and mitigation strategies pertaining to cyber threats, students are better poised to navigate the digital world securely. This lesson aims to instill a solid foundational understanding, preparing students to tackle the challenges that lie ahead in the realm of cybersecurity. Through a blend of theoretical knowledge and practical insights, students will emerge with a well-rounded perspective on combating cyber threats.
+<p1>Networking is a vast field with myriad components and concepts. The knowledge acquired today lays a solid foundation for exploring advanced networking topics. As we delve deeper in subsequent lessons, we'll uncover more about how networks are designed, secured, and managed to cater to the ever-evolving demands of our digital world. Whether aiming for a career in network administration, cybersecurity, or merely satiating your curiosity, understanding the basics of networking is a crucial step forward.
 </p1>
 <br>
  
 
 
 <h2> Presentation</h2>
-<a href= "https://docs.google.com/presentation/d/1-uEbGgVKI3W_ZgOlQm2YW_6sVzJMyYpE/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Understanding Cyber Threats </a>
+</a>
  <br>
 <h2> Hands-On Labs</h2>
- <a href="https://docs.google.com/document/d/1FlvEi7AdondcewdfP7KAkcD6fzgbwn2OJGPumJjHcIE/edit?usp=sharing">Cyber Threat Activity </a><br>
+ <a href="https://docs.google.com/document/d/1yLGq8USTI75GX-amDo2TwL9NfopxmJF7/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">IBM Terminal</a><br>
  <br>
- <a href="https://docs.google.com/document/d/1E1juUtBjK_gxcEXWMWHlWQkWMQw-4RXtwESN9GGseKE/edit?usp=sharing"> Cyber Threat Reflection </a>
+  <a href="https://docs.google.com/document/d/1Jt_YcKwCpGTetoe3vCMCxZQVR-trzNAWZlPgOt_f7QY/edit?usp=sharing">Network Firewall Lab</a>
+
 
 <h2> Additonal Resources</h2>
 <p1>
