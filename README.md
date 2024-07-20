@@ -61,19 +61,19 @@
 <ul>
 <li>K0001: Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
 <br>
-<li>K0010	Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
+<li>K0010:	Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
 <br>
-<li>K0011	Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
+<li>K0011:	Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
 <br>
-<li>K0034	Knowledge of network services and protocol interactions that provide network communications.</li>
+<li>K0034:	Knowledge of network services and protocol interactions that provide network communications.</li>
 <br>
-<li>K0057	Knowledge of network hardware devices and functions.</li>
+<li>K0057:	Knowledge of network hardware devices and functions.</li>
 <br>
-<li>K0061	Knowledge of how traffic flows across the network</li>
+<li>K0061:	Knowledge of how traffic flows across the network</li>
 <br>
-<li>K0111	Knowledge of network tools</li>
+<li>K0111:	Knowledge of network tools</li>
 <br>
-<li>K0113	Knowledge of different types of network communication</li>
+<li>K0113:	Knowledge of different types of network communication</li>
 </ul>
 
 
@@ -160,8 +160,35 @@ The Rulebooks of Communication Networking protocols define the rules that govern
 <p1>Networking is a vast field with myriad components and concepts. The knowledge acquired today lays a solid foundation for exploring advanced networking topics. As we delve deeper in subsequent lessons, we'll uncover more about how networks are designed, secured, and managed to cater to the ever-evolving demands of our digital world. Whether aiming for a career in network administration, cybersecurity, or merely satiating your curiosity, understanding the basics of networking is a crucial step forward.
 </p1>
 <br>
- 
 
+<h2>Definitions</h2>
+<ul>
+<li><b>Network:</b> A group of interconnected devices that can communicate with each other to share resources and information.<br>
+<br>
+
+<li><b>NIC (Network Interface Card):</b> A hardware component that connects a computer to a network, enabling communication with other devices.<br>
+<br>
+
+<li><b>Ethernet:</b> A widely used technology for local area networks that uses physical cables to connect devices for data transfer.<br>
+<br>
+
+<li><b>LAN (Local Area Network):</b> A network that connects devices within a limited area such as a home, school, or office building.<br>
+<br>
+
+<li><b>Router:</b> A networking device that forwards data packets between computer networks, directing the data along the most efficient routes.<br>
+<br>
+
+<li><b>Switch:</b> A networking device that connects devices within a network and uses packet switching to forward data to its destination.<br>
+<br>
+
+<li><b>IP (Internet Protocol):</b> A set of rules governing the format of data sent over the internet or a local network, allowing devices to communicate with each other.<br>
+<br>
+
+<li><b>WAN (Wide Area Network):</b> A telecommunications network that extends over a large geographic area for the purpose of computer networking.<br>
+<br>
+
+<li><b>WAP (Wireless Access Point):</b> A device that allows wireless devices to connect to a wired network using Wi-Fi or other wireless standards.
+</ul>
 
 <h2> Presentation</h2>
 </a>
@@ -172,7 +199,6 @@ The Rulebooks of Communication Networking protocols define the rules that govern
   <a href="https://docs.google.com/document/d/1Jt_YcKwCpGTetoe3vCMCxZQVR-trzNAWZlPgOt_f7QY/edit?usp=sharing">Network Firewall Lab</a>
 
 
+<h2>Games</h2>
 <h2> Additonal Resources</h2>
-<p1>
 
-</p1>
